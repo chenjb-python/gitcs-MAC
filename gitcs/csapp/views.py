@@ -7,4 +7,5 @@ def index(request):
     print('新增语句')
     print("hello")
     print('world')
+    print('wocao')
     return HttpResponse('hello')
