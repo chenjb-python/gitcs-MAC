@@ -4,6 +4,7 @@ from django.shortcuts import render
 # Create your views here.
 
 def index(request):
+    print('争取成功')
     print('再测试')
     print('新测试')
     print('没玩了')
