@@ -8,7 +8,7 @@ def index(request):
     print('争取成功')
     print('再测试')
     print('新测试')
-    print('没玩了')
+   
     print('新增语句')
     print("hello")
     print('world')
